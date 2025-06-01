@@ -22,7 +22,7 @@ A simple Python GUI tool to filter and sort password dictionaries (wordlists) ba
 
 ## 🖼️ Screenshot
 
-*(Optional: Add a screenshot of the GUI here)*
+![Alt text](https://github.com/user-attachments/assets/62495585-409c-430f-89ab-50a5d6315d3c)
 
 ---
 

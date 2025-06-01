@@ -1,2 +1,46 @@
-# dictionary-filter
-A Python GUI tool to filter, clean, and sort password dictionary files based on customizable length and character rules.  Filter and sort your password lists easily with a user-friendly Python GUI for better security wordlist management.  Clean and organize your password dictionaries with filters and sorting options
+# 🧹 Password Dictionary Filter GUI
+
+A simple Python GUI tool to filter and sort password dictionaries (wordlists) based on length and character rules. Useful for cleaning up `.txt` wordlists used in security research, penetration testing, or personal use.
+
+---
+
+## 📦 Features
+
+- 🗂 Choose a `.txt` file as input
+- 🎯 Filter by:
+  - Minimum and maximum password length
+  - Only alphabetic / numeric / alphanumeric
+  - Remove passwords with special characters
+  - Remove duplicates
+- 🔤 Sort by:
+  - Alphabetical order
+  - Password length
+- 💾 Choose where to save the filtered file (with original filename)
+- 📊 See how many passwords were filtered and kept
+
+---
+
+## 🖼️ Screenshot
+
+*(Optional: Add a screenshot of the GUI here)*
+
+---
+
+## 🚀 Getting Started
+
+### 1. Requirements
+
+- Python 3.x
+- `tkinter` (usually pre-installed)
+
+To install `tkinter` on Ubuntu:
+
+```bash
+sudo apt update
+sudo apt install python3-tk
+
+```
+### 2. How to run
+
+```bash
+python3 index.py
